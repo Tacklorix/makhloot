@@ -8,6 +8,11 @@ def mix_codes(codes):
 
 def main():
     # Asking the user to enter codes
+    print("""
+    my Channel Telegram = @Black_Edalat
+    
+    my ID Telegram = @taklorix
+    """)
     user_input = input("Please enter your codes (comma separated): ")
     codes = user_input.split(',')
 
